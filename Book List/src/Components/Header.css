@@ -1,0 +1,15 @@
+.navbar {
+    text-align: center;
+    width: 100%;
+    font-size: 1.5rem;
+}
+
+.icon {
+    vertical-align: bottom;
+    margin-right: 15px;
+    color: rgb(243, 147, 4);
+}
+
+h1 span {
+    color: rgb(243, 147, 4);
+}
