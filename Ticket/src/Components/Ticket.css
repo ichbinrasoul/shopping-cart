@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../../public/images/air.jpg');
+    background-repeat: no-repeat;
+    background-size: 1920px 1080px;
+    height: 100vh;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width: 700px;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+}
+
+section input,select,button {
+    height: 30px;
+    width: 300px;
+    border-radius: 3px;
+    border: 0 solid;
+    margin: 10px;
+}
+
+section button {
+    background-color: yellow;
+}
+
